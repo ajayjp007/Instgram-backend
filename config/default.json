@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://ajay:ajay@cluster0.bzdkn.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mytoken"
+}
